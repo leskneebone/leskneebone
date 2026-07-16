@@ -2,7 +2,7 @@
 
 Information architect specialising in **vocabularies, ontologies, knowledge graphs and semantic data standards**.
 
-Working at the boundary between modelling and implementation: developing RDF vocabularies and profiles; SHACL validation rules; transforming source data, contributing to standards; helping organisations publish data that can be understood and reused.
+Working at the boundary between modelling and implementation: developing RDF vocabularies and profiles; SHACL validation rules; transforming source data, standards work; helping organisations publish data that can be understood and reused.
 
 ## Current work 🔭
 
