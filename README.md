@@ -1,8 +1,8 @@
 # Les Kneebone
 
-I’m an information architect specialising in **vocabularies, ontologies, knowledge graphs and semantic data standards**.
+Information architect specialising in **vocabularies, ontologies, knowledge graphs and semantic data standards**.
 
-I work at the boundary between information modelling and implementation: developing RDF vocabularies and profiles, writing SHACL validation rules, transforming source data, contributing to standards, and helping organisations publish data that can be understood and reused.
+Working at the boundary between modelling and implementation: developing RDF vocabularies and profiles, writing SHACL validation rules, transforming source data, contributing to standards, and helping organisations publish data that can be understood and reused.
 
 ## Current work 🔭
 
@@ -19,12 +19,9 @@ I work at the boundary between information modelling and implementation: develop
 
 ## Areas of interest
 
-RDF · SKOS · SHACL · OWL · SPARQL · RML · DCAT · PROF · catalogues · controlled vocabularies · ontology engineering · data profiles · semantic validation · standards development
+RDF · SKOS · SHACL · OWL · SPARQL · RML · DCAT · PROF · catalogues · vocabularies · ontologies · data profiles · validation · standards
 
-[ORCID](https://orcid.org/0000-0001-5640-3202) · [LinkedIn](https://www.linkedin.com/in/leskneebone/) · [KurrawongAI](https://kurrawong.ai/people)
-
-
-📫 leskneebone@outlook.com
+📫 leskneebone@outlook.com · [ORCID](https://orcid.org/0000-0001-5640-3202) · [LinkedIn](https://www.linkedin.com/in/leskneebone/) · [KurrawongAI](https://kurrawong.ai/people)
 
 <!--
 - 🔭 I’m currently working on ...
