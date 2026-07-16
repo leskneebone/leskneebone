@@ -2,13 +2,12 @@
 
 Information architect specialising in **vocabularies, ontologies, knowledge graphs and semantic data standards**.
 
-Working at the boundary between modelling and implementation: developing RDF vocabularies and profiles, writing SHACL validation rules, transforming source data, contributing to standards, and helping organisations publish data that can be understood and reused.
+Working at the boundary between modelling and implementation: developing RDF vocabularies and profiles; SHACL validation rules; transforming source data, contributing to standards; helping organisations publish data that can be understood and reused.
 
 ## Current work 🔭
 
-* Information architecture and semantic data engineering at [KurrawongAI](https://kurrawong.ai/)
+* Information architecture, semantic modelling and training at [KurrawongAI](https://kurrawong.ai/)
 * Editor and contributor in the W3C Data Exchange Working Group, including work on DX-PROF
-* Contributor to semantic standards and tooling involving DCAT, PROF, SKOS, SHACL, SOSA/SSN and related technologies
 * Vocabulary and reference-data work for government, research and environmental-data systems
 
 ## Selected projects
