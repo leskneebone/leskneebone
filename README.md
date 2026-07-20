@@ -13,7 +13,7 @@ Working at the boundary between modelling and implementation: developing RDF voc
 ## Selected projects
 
 * [VocStat](https://github.com/leskneebone/vocstat) — experimental tooling for analysing the structure and quality of RDF vocabularies
-* [SHACL Pattern Library](https://github.com/leskneebone/shacl-pattern-library) - An exploratory project investigating SHACL validation designs
+* [SHACL Pattern Catalogue](https://github.com/leskneebone/shacl-pattern-catalogue) - An exploratory project investigating SHACL validation designs
 * [makeitatriple](https://github.com/leskneebone/makeitatriple) — tools and experiments for turning classifications and other structured source material into RDF
 * Contributions to W3C, TERN, Biodiversity Data Repository and other collaborative semantic-data projects
 
